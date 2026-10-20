@@ -1,7 +1,11 @@
-## Hi! I'm Skyla :)
+##Hi! I'm Skyla :)
 
-I am a Data Analyst Consultant at The Information Lab
+I am a Data Analytics Consultant at The Information Lab, passionate about storytelling with data and problem-solving.
 
-I graduated from Hamilton College where I double majored in Psychology and Japanese. Here, I took a deep interest in psychological and linguistics experiments, eventually leading me to the data world where I am now building my technical skills.
+My data journey began at Hamilton College where I realized the power of data to make discoveries through psychology research and linguistics experiments while earning my bachelor’s in Psychology and Japanese.
 
-Outside of work I play video games and try different teas.
+Afterward, I developed my technical skills as a Data Analytics Fellow at COOP Careers Fellowship, and built strong observational skills as a Data Collector for Tech companies. I also have previous experience as a Clinical Certified Medical Assistant, in UX Research, and in nonprofits.
+
+At The Information Lab, I became proficient at data cleaning in tools such as Tableau Prep, Power Query, and Alteryx. On the creative side, I've been able to express my joy of storytelling through visualizations and dashboarding in Tableau and Power BI, where through chart choices and layouts I build the way to easy analysis. Additionally, I gained experience with query languages like SQL, and am honing my skills day by day.
+
+Outside of work, I enjoy trying different types of teas, playing video games, and watching a good show.
