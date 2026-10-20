@@ -11,6 +11,25 @@ At The Information Lab, I became proficient at data cleaning in tools such as Ta
 Outside of work, I enjoy trying different types of teas, playing video games, and watching a good show.
 
 ### Certifications 
-- Alteryx Designer Core Certified
-- Google Data Analytics Professional Certificate
-- Salesforce Certified Tableau Data Analyst
+<p align="left">
+     <a href="https://www.credly.com/badges/43b7b20f-5b09-478a-85a4-969daa881fa4/embedded">
+    <img src="https://images.credly.com/size/340x340/images/88c25fa4-9007-42cc-b9c5-16441a878507/GCC_badge_DA_1000x1000.png" alt="Alteryx Designer Core" width="90" height="90">
+      &nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/437fa720-9802-4652-a5e5-14f748834945/embedded">
+    <img src="https://images.credly.com/size/680x680/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" alt="Google Data Analytics" width="90" height="90">
+   <a href="https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=jzBzB0kZjkQQ74x3Tn7KjHZczDBF1Lwmqi5V+L3nNDZRZF0/liNHp7FShpy1m9Ej">
+    <img src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MAEbJ&oid=00DF0000000gZsu&lastMod=1746778793000" alt="Tableau Data Analyst" width="90" height="90">
+  </a>
+</p>
+
+### Links
+<p align="left">
+  <a href=https://www.linkedin.com/in/skyla-patterson/searchString=6MMwVGg1asMQLVs8eGd9s9ab4wcs3bjQKix4cveJtMysqeFWsEgnkoJ4sRXRx1j2">
+    <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="Linkedin" width="70" height="70">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://public.tableau.com/app/profile/skyla.patterson/vizzes">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3w0W9cjVP6puOj2NeibZoZChkVBxT9dAZspEzpOdnRA&s=10" alt="Tableau Public" width="70" height="70">
+  <a href="https://community.alteryx.com/profile/819384/skylapatt">
+    <img src="https://www.freelogovectors.net/wp-content/uploads/2023/11/alteryx_logo-freelogovectors.net_.png" alt="Alteryx" width="90" height="70">
+</p>
