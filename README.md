@@ -1,4 +1,4 @@
-##Hi! I'm Skyla :)
+## Hi! I'm Skyla :)
 
 I am a Data Analytics Consultant at The Information Lab, passionate about storytelling with data and problem-solving.
 
