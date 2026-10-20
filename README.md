@@ -9,3 +9,8 @@ Afterward, I developed my technical skills as a Data Analytics Fellow at COOP Ca
 At The Information Lab, I became proficient at data cleaning in tools such as Tableau Prep, Power Query, and Alteryx. On the creative side, I've been able to express my joy of storytelling through visualizations and dashboarding in Tableau and Power BI, where through chart choices and layouts I build the way to easy analysis. Additionally, I gained experience with query languages like SQL, and am honing my skills day by day.
 
 Outside of work, I enjoy trying different types of teas, playing video games, and watching a good show.
+
+### Certifications 
+- Alteryx Designer Core Certified
+- Google Data Analytics Professional Certificate
+- Salesforce Certified Tableau Data Analyst
